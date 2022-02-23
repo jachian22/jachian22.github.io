@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+I'm Jason and this is my journey from manager back to IC in data science. After 7 years in the field, I find myself leading a team of 10 engineers in India building client-facing tools for Vanguard. After stepping more into a managerial role day-to-day, I find myself forgetting the statistical concepts behind what I do. This is my journey getting back into it.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Manager to IC
